@@ -1,9 +1,12 @@
 {
   "name": "angular-database",
   "version": "1.0.0",
-  "description": "AngularJS Directive for IndexedDB",
-  "main": "angular-database.js",
+  "description": "AngularJS Service for IndexedDB",
+  "main": "index.js",
   "repository": "https://github.com/jmouriz/angular-database",
   "author": "Juan Manuel <jmouriz@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.5"
+  }
 }
