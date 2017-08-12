@@ -1,6 +1,6 @@
 {
   "name": "angular-database",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AngularJS Service for IndexedDB",
   "main": "index.js",
   "repository": "https://github.com/jmouriz/angular-database",
@@ -8,5 +8,8 @@
   "license": "MIT",
   "dependencies": {
     "angular": "^1.6.5"
+  },
+  "devDependencies": {
+    "minify": "^3.0.1"
   }
 }
